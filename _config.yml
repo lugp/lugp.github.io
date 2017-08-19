@@ -4,9 +4,9 @@ SEOTitle: lugp | Blog
 header-img: img/post-bg-desk.jpg
 email: 512378096@qq.com
 description: "Stay hungry. Stay foolish."
-keyword: "lugp, linux, Android, C/C++, java, Python"
-url: "http://lugp.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "linux, Android, Ubuntu, C/C++, java, Shell, Python"
+url: "http://lugp.github.io"            # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lugp/lugp.github.io.git" # you code repository
 
 # Sidebar settings
@@ -18,13 +18,12 @@ sidebar-avatar: img/avatar-lugp.png     # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:       2772540630
+jianshu_username:     a8e5daa9db04
 zhihu_username:       yue-juan-ying
+weibo_username:       2772540630
 github_username:      lugp
 #facebook_username:    lugp
-jianshu_username:     a8e5daa9db04
 #twitter_username:    lugp
-
 
 
 
